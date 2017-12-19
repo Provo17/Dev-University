@@ -60,3 +60,8 @@
 [19-Dec-2017 06:15:49 UTC] PHP Parse error:  syntax error, unexpected ''child_of'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/dev_university_theme/page.php on line 45
 [19-Dec-2017 06:17:25 UTC] PHP Parse error:  syntax error, unexpected ''child_of'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /app/public/wp-content/themes/dev_university_theme/page.php on line 45
 [19-Dec-2017 06:34:22 UTC] PHP Parse error:  syntax error, unexpected '>>' (T_SR), expecting end of file in /app/public/wp-content/themes/dev_university_theme/header.php on line 3
+[19-Dec-2017 21:39:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 13
+[19-Dec-2017 21:39:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 13
+[19-Dec-2017 21:39:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 13
+[19-Dec-2017 21:44:04 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 16
+[19-Dec-2017 21:44:14 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 16
