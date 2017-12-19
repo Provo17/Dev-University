@@ -22,6 +22,10 @@ function university_features () {
 
     add_theme_support('title-tag');
 
+    register_nav_menu('headerMenu', 'Header menu');
+    register_nav_menu('footerMenuLeft', 'Footer menu left');
+    register_nav_menu('footerMenuRight', 'Footer menu right');
+
 }
 
 add_action('after_setup_theme', 'university_features');
