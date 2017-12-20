@@ -65,3 +65,5 @@
 [19-Dec-2017 21:39:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 13
 [19-Dec-2017 21:44:04 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 16
 [19-Dec-2017 21:44:14 UTC] PHP Parse error:  syntax error, unexpected 'the_author' (T_STRING), expecting ',' or ';' in /app/public/wp-content/themes/dev_university_theme/archive.php on line 16
+[20-Dec-2017 18:15:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post-type' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 298
+[20-Dec-2017 18:15:44 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post-type' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 298
