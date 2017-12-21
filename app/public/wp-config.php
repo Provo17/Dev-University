@@ -19,6 +19,36 @@
  */
 
 // ** MySQL settings ** //
+
+if (file_exists(dirname(__file__) .'/local.php')) {
+    // local
+    /** The name of the database for WordPress */
+    define( 'DB_NAME', 'local' );
+
+    /** MySQL database username */
+    define( 'DB_USER', 'root' );
+
+    /** MySQL database password */
+    define( 'DB_PASSWORD', 'root' );
+
+    /** MySQL hostname */
+    define( 'DB_HOST', 'localhost' );
+
+} else {
+    //live
+    /** The name of the database for WordPress */
+    define( 'DB_NAME', 'gregor21_universitydata' );
+
+    /** MySQL database username */
+    define( 'DB_USER', 'gregor21_admin' );
+
+    /** MySQL database password */
+    define( 'DB_PASSWORD', 'Prov2309' );
+
+    /** MySQL hostname */
+    define( 'DB_HOST', 'localhost' );
+}
+
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'local' );
 
