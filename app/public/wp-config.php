@@ -43,7 +43,7 @@ if (file_exists(dirname(__file__) .'/local.php')) {
     define( 'DB_USER', 'gregor21_admin' );
 
     /** MySQL database password */
-    define( 'DB_PASSWORD', 'Prov2309' );
+    define( 'DB_PASSWORD', '*?Xp*md$thL$' );
 
     /** MySQL hostname */
     define( 'DB_HOST', 'localhost' );
